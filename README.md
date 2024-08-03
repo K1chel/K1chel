@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyryl</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1chel&label=Profile%20views&color=0e75b6&style=flat" alt="k1chel" /> </p>
 
-- 🔭 I’m currently working on [Radapro](https://github.com/K1chel/radapro)
-
 - 👨‍💻 All of my projects are available at [https://k1chel-portfolio.com](https://k1chel-portfolio.com)
 
 <h3 align="left">Connect with me:</h3>
